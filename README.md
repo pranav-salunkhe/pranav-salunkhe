@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-IT Undergrad at NITK Surathkal. <br>He is deeply interested in Software Development. <br>He is adept at MERN Stack and is also proficient in various frontend libraries/frameworks like Tailwindcss, DaisyUI, jQuery, Bootstrap.<br>Although Development is his niche, he also has several projects based on Machine Learning and Blockchain. <br>He constantly updates himself on the latest advancements in tech. <br>He codes mainly in Java, Python, Javascript/Typescript.<br>Currently, he is working as a Webmaster at ISTE NITK & 180Degrees Consulting NITK
+IT Undergrad at NITK Surathkal. <br>He is deeply interested in Software Development. <br>He is adept at MERN Stack and is also proficient in various frontend libraries/frameworks like Tailwindcss, jQuery, Bootstrap.<br>Although Development is his niche, he also has several projects based on Machine Learning and Blockchain.<br>He codes mainly in Java, Python, Javascript/Typescript.<br>Currently, he is working as a Webmaster at ISTE NITK & 180Degrees Consulting NITK
 
 
 ## 🌐 Socials:
